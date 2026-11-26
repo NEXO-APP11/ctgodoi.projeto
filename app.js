@@ -7,7 +7,7 @@ const SITE_CONFIG = {
   whatsappNumber: "5548999132017",
   whatsappMessage: "Olá! Tenho interesse em conhecer a GODOI CT e fazer uma aula experimental.",
   supabaseUrl: "https://fhvkwhxtvieghdwhwvra.supabase.co",
-  supabaseAnonKey: "sb_publishable_zPf4sohTvH8A6A5vXh89HQ_kD_f4qSz"
+  supabaseAnonKey: "sb_publishable_MAiByd9ohrRxaSvEFocmfg_Jwgslwu7"
 };
 
 const SESSION_KEY = "godoict.supabase.session.v1";
